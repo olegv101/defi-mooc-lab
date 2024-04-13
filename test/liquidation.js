@@ -53,3 +53,4 @@ describe("Liquidation", function () {
     writeFile('profit.txt', String(utils.formatEther(profit)), function (err) {console.log("failed to write profit.txt: %s", err)});
   });
 });
+//done
